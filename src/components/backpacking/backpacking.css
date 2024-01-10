@@ -1,0 +1,26 @@
+.for_card{
+
+    border: none;
+    box-shadow: 0px 0px 10px 1px #0000004D;
+}
+
+    
+ .pink-text {
+      color: #DC1B5E;
+  }
+
+  .black-text {
+    color: black;
+  }
+  .btnCreate{
+    border: 1px solid orange;
+    background-color: orange;
+    color: #fff;
+  }
+  .for_booknow{ 
+  border-radius: 31.85px;
+  padding: 2px 13px 2px 13px;
+  border: none;
+  color: white;
+  background: #FFA923;
+  }

@@ -1,0 +1,157 @@
+.for_align{
+
+    padding: 21px 33px 2px 33px;
+}
+.for_xmark{
+      
+     font-size: 39px;
+     color: black;
+}
+.tour_detail{
+       
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.for_bgform{
+
+    box-shadow: 0px 0px 10px 0px #00000040;
+     margin-top: 3rem;
+     padding-bottom: 60px;
+     border-radius: 37px;
+
+}
+.for_hr{
+
+    border: 0.5px solid #828282;
+    background: #828282;
+    opacity: 0.5;
+}
+.for_hr2{
+    border: 0.5px solid #828282;
+    background: #828282;
+    opacity: 0.5;
+    width: 94%;
+ }
+.for_tourdate{
+    text-align: left;
+    font-size: 40px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+}
+.package_type{
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px 0px #00000040;
+    margin: 28px;
+    padding: 45px;
+
+}
+.heading_package{
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.for_justify{
+
+     text-align: justify;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+}
+.for_note{
+
+     text-align: justify;
+font-size: 18px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+color: #FF0000;
+}
+.for_plus{
+
+    border-radius: 5px;
+    padding: 0px 4px 0px 4px;
+    border: 1px solid #FFA923;
+}
+.for_minus{
+
+    border-radius: 5px;
+    padding: 0px 5px 0px 5px;
+    border: none;
+    background: #FFA923;
+    color: white;
+}
+.for_number{
+
+    
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.for_select{
+      
+     margin: auto;
+     width: 94%;
+     border-radius: 9px;
+     padding: 15px;
+}
+
+.for_tourbutton{
+    border: none;
+    margin-top: 11px;
+    border-radius: 12px;
+    flex-shrink: 0;
+    flex-shrink: 0;
+    padding: 17px 107px 15px 107px;
+    color: white;
+    background-color: #FFA923;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.total_bill{
+    padding: 26px;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.total_amount{
+
+    text-align: justify;
+    padding: 26px;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0em;
+}
+.for_user{
+
+    font-size: 23px;
+}   
+.for_pd{
+
+     padding: 5px 180px 20px 180px;
+}
+
+
+@media screen and (max-width: 768px) {
+   
+    .for_pd{
+
+         padding: 0px;
+    }
+     
+  }
